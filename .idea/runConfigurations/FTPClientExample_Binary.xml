@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FTPClientExample Binary" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ejemplos.FTPClientExample" />
+    <module name="Cliente FTP" />
+    <option name="PROGRAM_PARAMETERS" value="-b ftp.nic.funet.fi anonymous a@b.c /.m/ftp/pub/msdos/games/tetris/tetris6.zip tetris.zip" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
